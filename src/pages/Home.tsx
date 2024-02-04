@@ -73,7 +73,7 @@ export const Home = () => {
                   />
                   <p>
                     Offer counselling to men facing challenges in order to
-                    contain suicides as its rate is increasing amoung men.
+                    contain suicides as its rate is increasing among men.
                   </p>
                 </li>
                 <li className="flex space-x-5 items-center  w-full md- p-5 cursor-pointer shadow-xl transform transition-transform duration-500 hover:translate-x-8 animate-fadeIn">

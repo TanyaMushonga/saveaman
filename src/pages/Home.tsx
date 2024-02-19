@@ -14,6 +14,7 @@ import simplico from "./../assets/simplicico.jpg";
 import { Link } from "react-router-dom";
 import murire from "./../assets/murire.jpg";
 import uk from "./../assets/uk.jpg";
+import micheal from "./../assets/micheal.jpg";
 export const Home = () => {
   return (
     <>
@@ -190,7 +191,7 @@ export const Home = () => {
             />
             <TeamInfo
               name={"Michael Gwevera"}
-              profileUrl={saveaman}
+              profileUrl={micheal}
               role={
                 "Permanent Executive Council Director for Security and Intelligence"
               }

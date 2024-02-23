@@ -35,6 +35,12 @@ export const Footer = () => {
               Subscribe
             </button>
           </div>
+          <h1 className="my-10 text-primary">
+            <a href={"https://tanya-mushonga.vercel.app/"} target="_blank">
+              Tanyaradzwa T Mushonga
+            </a>
+            developed by{" "}
+          </h1>
         </fieldset>
       </form>
     </footer>
